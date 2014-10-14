@@ -52,4 +52,4 @@ Assignment:
 •	Create a detailed storyline ---> GamingStudioX, Xephos, Random_Wookie
 •	WorldGuard safezone on map cordoned by Connor ---> Connor, Me
 
-Thats all currently, would be updating again soon!
+Thats all currently, would be updating again soon! Uploading files to be configured!
