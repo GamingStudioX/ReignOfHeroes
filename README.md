@@ -15,6 +15,8 @@ Objectives:
 - Set up Quests according to storyline (Undone)
 - Set up NPCs according to Quests and storyline (Undone)
 - WorldGuard safezone on map cordoned by Connor (Undone)
+- Create addon for Heroes stats points (Undone)
+- Upgrade Factions plugin and edit names (Undone)
 - Advertise the server (Undone)
 - Gain decent playerbase (Undone)
 - Upgrade machine (Undone)
@@ -45,7 +47,9 @@ Here are plugins to be configured:
 Seems a lot, but its a lot easier, just follow the instructions and follow what you are supposed to do!
 
 Assignment:
-- Set up Heroes, SkillAPI, Essentials, permissions, and core plugins ---> GamingStudioX, Camden and Jusin
+- Set up Heroes, SkillAPI, Essentials, permissions, and core plugins ---> GamingStudioX, Camden and Justin
+- Create addon for Heroes stats points ---> Camden and Justin
+- Upgrade Factions plugin and edit names ---> Camden and Justin
 - Create a detailed storyline ---> GamingStudioX, Xephos, Random_Wookie
 - WorldGuard safezone on map cordoned by Connor ---> Connor, Me
 
