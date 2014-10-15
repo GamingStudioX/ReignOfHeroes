@@ -1,56 +1,16 @@
-ReignOfHeroes
-=============
+Reign Of Heroes MMORPG Storyline
 
-Reign Of Heroes Server Development repository, this is a list of current objectives and tasks.
+GamingStudioX, Xephos and Random_Wookie, please complete the storyline and add your ideas please.
+What we need to do is to crate an extremely elaborated storyline with names, conversations, locations and actions all stated. If you see anything that could be elaborated, please add on or edit.
 
-Objectives:
-- Set up cheat preventive plugins (Undone)
-- Set up Heroes, SkillAPI, Essentials, permissions, and core plugins (Undone)
-- Set up Guilds plugin system (Undone)
-- Set up Heroes skills, classes, SkillAPI skills (Undone)
-- Create Special Items for Quests, rewards, special drops etc. (Undone)
-- Create a detailed storyline (Undone)
-- Configure mcMMO to suit health and damage values for Heroes and SkillAPI (Undone)
-- Create MythicMobs according to storyline (Undone)
-- Set up Quests according to storyline (Undone)
-- Set up NPCs according to Quests and storyline (Undone)
-- WorldGuard safezone on map cordoned by Connor (Undone)
-- Create addon for Heroes stats points (Undone)
-- Upgrade Factions plugin and edit names (Undone)
-- Advertise the server (Undone)
-- Gain decent playerbase (Undone)
-- Upgrade machine (Undone)
-- Upgrade Internet (Undone)
-
-*Objectives not in chronological order
-
-Here are plugins to be configured:
-- NoCheatPlus
-- Citizens 2
-- ClearLag
-- Essentials
-- Guilds plugin
-- GroupManager
-- HealthBar
-- Heroes
-- ItemLoreStats
-- Jobs
-- mcMMO
-- MythicMobs
-- OpenInv
-- Quests
-- SkillAPI
-- TreeAssist
-- WorldEdit
-- WorldGuard
-
-Seems a lot, but its a lot easier, just follow the instructions and follow what you are supposed to do!
-
-Assignment:
-- Set up Heroes, SkillAPI, Essentials, permissions, and core plugins ---> GamingStudioX, Camden and Justin
-- Create addon for Heroes stats points ---> Camden and Justin
-- Upgrade Factions plugin and edit names ---> Camden and Justin
-- Create a detailed storyline ---> GamingStudioX, Xephos, Random_Wookie
-- WorldGuard safezone on map cordoned by Connor ---> Connor, Me
-
-Thats all currently, would be updating again soon!
+- Stage I
+ - Hero is spawned into an area with 8 archmages surrounded, and magic particles around
+ - Guide: 'Hero! You are here! Our greatest archmages have summoned you successfully this time! You are needed to save the Kingdom from destruction!'
+ - Guide says how Hero is summoned and his purpose
+ - Guide gives basic introduction to scenario, and gives quest to go to the ??? (Place where Knights, Mages, Rogues and trained together)
+ - Hero finds ??? and completes quest, receiving reward.
+ - Hero can talk to a Guardian, Archmage or assassin to inquire about the classes, and choose one using commands given
+ - Hero is given quest to find a quest giver to start on his quests
+ - Hero goes through a ton of quests fighting monsters, gathering artifacts, going to places etc
+ - Hero finally finds the Sepulchure that has been haunting the Kingdom
+ - Hero returns, get great reward, and is hailed hero
