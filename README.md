@@ -9,7 +9,7 @@ What we need to do is to crate an extremely elaborated storyline with names, con
  - Guide says how Hero is summoned and his purpose
  - Guide gives basic introduction to scenario, and gives quest to go to the ??? (Place where Knights, Mages, Rogues and trained together)
  - Hero finds ??? and completes quest, receiving reward.
- - Hero can talk to a Guardian, Archmage or assassin to inquire about the classes, and choose one using commands given
+ - Hero can talk to a Guardian, Archmage or Assassin to inquire about the classes, and choose one using commands given
  - Hero is given quest to find a quest giver to start on his quests
  - Hero goes through a ton of quests fighting monsters, gathering artifacts, going to places etc
  - Hero finally finds the Sepulchure that has been haunting the Kingdom
