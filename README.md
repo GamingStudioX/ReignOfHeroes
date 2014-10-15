@@ -14,3 +14,13 @@ What we need to do is to crate an extremely elaborated storyline with names, con
  - Hero goes through a ton of quests fighting monsters, gathering artifacts, going to places etc
  - Hero finally finds the Sepulchure that has been haunting the Kingdom
  - Hero returns, get great reward, and is hailed hero
+
+- Stage II
+ - ???
+
+- Stage III
+ - ???
+
+Is it really coming into shapes now? Leave your comments below in the following format!
+- GamingStudioX:
+ - Guys just put as much information as you can to elaborate until nothing unanswered is left, okay? By the way, to make point form just type - and a space and type your words. To make a secondary point, add a space before your -.
