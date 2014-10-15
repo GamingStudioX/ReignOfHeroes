@@ -1,56 +1,26 @@
-ReignOfHeroes
-=============
+HeroesAttributesStats
 
-Reign Of Heroes Server Development repository, this is a list of current objectives and tasks.
+HeroesAttributesStats is an addon for the Heroes plugin. Here is a description:
+- Add attributes into the current Heroes plugin.
+- The attributes will be:
+Strength - For every 1 strength, damage dealt by the player (Normal melee damage) will increase by 3%
+Health - For every 1 health, the player's health will increase by 1%
+Stamina - For every 1 stamina, the player can sprint for 1 second longer
+Intelligence - For every 1 intelligence, the player's mana increase by 3%
+Agility - For every 1 agility, the player can move 1 unit (I don't know what is the unit for speed in MC) faster.
+Defence - For every 1 defence, the player get 1 unit armor point more
+Players can get stats points from gaining vanilla experience, every 3 levels=1 stats points
 
-Objectives:
-- Set up cheat preventive plugins (Undone)
-- Set up Heroes, SkillAPI, Essentials, permissions, and core plugins (Undone)
-- Set up Guilds plugin system (Undone)
-- Set up Heroes skills, classes, SkillAPI skills (Undone)
-- Create Special Items for Quests, rewards, special drops etc. (Undone)
-- Create a detailed storyline (Undone)
-- Configure mcMMO to suit health and damage values for Heroes and SkillAPI (Undone)
-- Create MythicMobs according to storyline (Undone)
-- Set up Quests according to storyline (Undone)
-- Set up NPCs according to Quests and storyline (Undone)
-- WorldGuard safezone on map cordoned by Connor (Undone)
-- Create addon for Heroes stats points (Undone)
-- Upgrade Factions plugin and edit names (Undone)
-- Advertise the server (Undone)
-- Gain decent playerbase (Undone)
-- Upgrade machine (Undone)
-- Upgrade Internet (Undone)
+Heroes: http://dev.bukkit.org/bukkit-plugins/heroes/
 
-*Objectives not in chronological order
+The info can be stored in a simple data file.
 
-Here are plugins to be configured:
-- NoCheatPlus
-- Citizens 2
-- ClearLag
-- Essentials
-- Guilds plugin
-- GroupManager
-- HealthBar
-- Heroes
-- ItemLoreStats
-- Jobs
-- mcMMO
-- MythicMobs
-- OpenInv
-- Quests
-- SkillAPI
-- TreeAssist
-- WorldEdit
-- WorldGuard
+Players can gain stat points by gaining levels.
 
-Seems a lot, but its a lot easier, just follow the instructions and follow what you are supposed to do!
+When a player have stats points, he can use a command to add them to his attributes bank
 
-Assignment:
-- Set up Heroes, SkillAPI, Essentials, permissions, and core plugins ---> GamingStudioX, Camden and Justin
-- Create addon for Heroes stats points ---> Camden and Justin
-- Upgrade Factions plugin and edit names ---> Camden and Justin
-- Create a detailed storyline ---> GamingStudioX, Xephos, Random_Wookie
-- WorldGuard safezone on map cordoned by Connor ---> Connor, Me
+/stats - View your attributes
+/stats points - - View total stats point
+/stats add (Attribute) - Add 1 point to attribute
 
-Thats all currently, would be updating again soon!
+I ripped this off my bukkit.org post, hopefully would be enough information. I assume you have enough knowledge about the Heroes plugin. Thanks!
