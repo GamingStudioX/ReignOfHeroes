@@ -18,6 +18,9 @@ What we need to do is to crate an extremely elaborated storyline with names, con
  - Hero selects his class from commands given by trainers.
  - Hero talks to Guard at the entrance of the academy.
  - Guard: 'You have your class now, please help us to show your ability to save the Kingdom. Go to the nearby Ravenwoods, I heard of a Undead infestation, help us destroy 8 Zombies!
+ - Hero kills 8 zombies and returns to the Guard.
+ - Guard: 'Thank you for your help! The Kingdom appreciates your contribution. Here, take these items as a gift, and talk to me when your are ready for your next quest.
+ - Hero recieves 5 Health potions and 5 Mana potions and class-specific gear.
  - Hero goes through a ton of quests fighting monsters, gathering artifacts, going to places etc.
  - Hero finally finds the Sepulchure that has been haunting the Kingdom.
  - Hero returns, get great reward, and is hailed hero.
