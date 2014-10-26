@@ -48,9 +48,11 @@ Seems a lot, but its a lot easier, just follow the instructions and follow what 
 
 Assignment:
 - Set up Heroes, SkillAPI, Essentials, permissions, and core plugins ---> GamingStudioX, Camden and Justin
-- Create addon for Heroes stats points ---> Camden and Justin
-- Upgrade Factions plugin and edit names ---> Camden and Justin
+- Create addon for Heroes stats points ---> Justin
+- Upgrade Factions plugin and edit names ---> Bryan Linares
 - Create a detailed storyline ---> GamingStudioX, Xephos, Random_Wookie
 - WorldGuard safezone on map cordoned by Connor ---> Connor, Me
+- Configure all Plugins ---> GamingStudioX, Camden
+- Create script to easily create Heroes skills ---> Camden
 
 Thats all currently, would be updating again soon!
