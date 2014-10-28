@@ -20,7 +20,13 @@ What we need to do is to crate an extremely elaborated storyline with names, con
  - Guard: 'You have your class now, please help us to show your ability to save the Kingdom. Go to the nearby Ravenwoods, I heard of a Undead infestation, help us destroy 8 Zombies!
  - Hero kills 8 zombies and returns to the Guard.
  - Guard: 'Thank you for your help! The Kingdom appreciates your contribution. Here, take these items as a gift, and talk to me when your are ready for your next quest.
- - Hero recieves 5 Health potions and 5 Mana potions and class-specific gear.
+ - Hero recieves 5 Health potions, 5 Mana potions, 25% more XP and a Wooden Wand for Archmage, Wooden Sword for Guardian, or Wooden Dagger for Assassin. 
+ - Hero talks to Guard again.
+ - Guard: 'You have proved you are worthy of fighting for the Kingdom, but you have a long way to go before you are ready. Start by heading to the area right outside the west wall and killing 25 training Zombies. Talk to me when you are done.'
+ - Hero kills 25 Zombies and returns to Guard to talk.
+ - Guard: 'You're done so quickly? I'm surprised, you will be a usefull fighter for the Kingdom. Takes these items and talk to me again.'
+ - Hero recieves 10 Health potions, 5 Mana potions
+ -
  - Hero goes through a ton of quests fighting monsters, gathering artifacts, going to places etc.
  - Hero finally finds the Sepulchure that has been haunting the Kingdom.
  - Hero returns, get great reward, and is hailed hero.
