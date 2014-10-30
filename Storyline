@@ -20,13 +20,18 @@ What we need to do is to crate an extremely elaborated storyline with names, con
  - Guard: 'You have your class now, please help us to show your ability to save the Kingdom. Go to the nearby Ravenwoods, I heard of a Undead infestation, help us destroy 8 Zombies!
  - Hero kills 8 Zombies and returns to the Guard.
  - Guard: 'Thank you for your help! The Kingdom appreciates your contribution. Here, take these items as a gift, and talk to me when your are ready for your next quest.
- - Hero recieves 30 Gold, 3 Health potions and and class-specific gear.
+ - Hero recieves 10 Gold, 15 XP, 3 Health potions and class-specific gear.
  - Hero talks to Guard again
  - Guard: 'Hello again! I think you are ready for a tougher challenge! The King said he would hire you once you prove yourself!'
  - Guard: 'Go to the graveyard near the forest, destroy 8 skeletons and bring me 3 Skulls!'
  - Hero gets to the graveyard, destroyed 8 skeletons and goes back to the guard
-- Guard: 'Great! You are good! Here is your reward! Get around the kingdom and explore it. See you again!'
- - Guard gives Hero 
+ - Guard: 'Great! You are doing well! Here is your reward. Walk around the Kingdom and explore it! See you again!'
+ - Hero recieves 15 Gold and 20 XP.
+ - Hero trains on basic monsters until he becomes level 8.
+ - Hero recieves message to talk to the Guard.
+ - Hero goes to talk to the Guard.
+ - Guard: 'Hero! Thank the gods, I am so glad you're here! I require your help dearly. The Royal elite military squad is pinned down! I need you to take this letter to the King! Please, hurry!
+ - Hero recieves letter.
  - Hero goes through a ton of quests fighting monsters, gathering artifacts, going to places etc.
  - Hero finally finds the Sepulchure that has been haunting the Kingdom.
  - Hero returns, get great reward, and is hailed hero.
