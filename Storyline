@@ -20,18 +20,19 @@ What we need to do is to crate an extremely elaborated storyline with names, con
  - Guard: 'You have your class now, please help us to show your ability to save the Kingdom. Go to the nearby Ravenwoods, I heard of a Undead infestation, help us destroy 8 Zombies!
  - Hero kills 8 Zombies and returns to the Guard.
  - Guard: 'Thank you for your help! The Kingdom appreciates your contribution. Here, take these items as a gift, and talk to me when your are ready for your next quest.
- - Hero recieves 10 Gold, 15 XP, 3 Health potions and class-specific gear.
+ - Hero recieves some Gold, XP, 3 Health potions.
  - Hero talks to Guard again
  - Guard: 'Hello again! I think you are ready for a tougher challenge! The King said he would hire you once you prove yourself!'
  - Guard: 'Go to the graveyard near the forest, destroy 8 skeletons and bring me 3 Skulls!'
  - Hero gets to the graveyard, destroyed 8 skeletons and goes back to the guard
  - Guard: 'Great! You are doing well! Here is your reward. Walk around the Kingdom and explore it! See you again!'
- - Hero recieves 15 Gold and 20 XP.
- - Hero trains on basic monsters until he becomes level 8.
- - Hero recieves message to talk to the Guard.
+ - Hero recieves some Gold and XP.
  - Hero goes to talk to the Guard.
- - Guard: 'Hero! Thank the gods, I am so glad you're here! I require your help dearly. The Royal elite military squad is pinned down! I need you to take this letter to the King! Please, hurry!
- - Hero recieves letter.
+ - Guard: 'Hero! Thank the gods, I am so glad you're here! I require your help. Our King is trapped in Ravenwood by a group of undead when hunting! I need you save him immediately! It should be Southern Ravenwood, beware of other creatures!
+ - Hero goes to Southern Ravenwood and found the King trapped on his horse by a group of Undead Zombies and Undead Archers.
+ - Hero takes out the undead and talk to King.
+ - Hero is hired by the King as the Undead Hunter.
+ - Achievement Get! Undead Hunter!
  - Hero goes through a ton of quests fighting monsters, gathering artifacts, going to places etc.
  - Hero finally finds the Sepulchure that has been haunting the Kingdom.
  - Hero returns, get great reward, and is hailed hero.
@@ -41,6 +42,30 @@ What we need to do is to crate an extremely elaborated storyline with names, con
 
 - Stage III
  - ???
+
+Guide: How to add Quests
+
+Quests Objectives:
+ - Killing mobs (Special Mobs, like Undead Knight, Dragon Rider, Sepulchure, Ravenshire Mage etc)
+ - Item delivery (Giving items to NPC)
+  - Get item from killing
+  - Get item from crafting
+  - Get item from exploring (Loot chests)
+  - Get item from purchasing
+ - Going to location
+  - To talk to other NPCs
+  - To explore
+  - To scout out a location
+There are 3 main objectives, with sub- objectives, make sure there are almost equal amount of objectives for each stage, make it balanced, like there would be less location objectives and more killing objectives.
+These are only the main goals, there would be obstacles in the way like parkour, dungeon, mobs. Make sure you add that, don't that things too hard.
+
+Every quest need 4 components, a event, location, conversation, and characters. Here is an example:
+ - Xephos went to school and met his pet Enderman (Location)
+ - Xephos: Hello Enderman, could you teleport me home? (Conversation)
+ - Enderman: Of course? Hold my hand. (Conversation)
+ - Xephos held the Enderman's hand and teleported home. (Event)
+ (Characters and introduced throughout the quest)
+So that is an example, now follow this format for every quest.
 
 Is it really coming into shapes now? Leave your comments below in the following format!
 - GamingStudioX:
