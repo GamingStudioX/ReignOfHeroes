@@ -74,7 +74,73 @@ What we need to do is to crate an extremely elaborated storyline with names, con
  - Great Father: He was the Sepulchure Of The Dark Age, and had destroyed our previous Kingdom. Even now, undeads rise from the grave!
  - Great Father: If he had managed to rise again, we are all doomed...
  - Hero reports back to the Royal Guardian.
- - Royal Guardian: I have thought of that, and I had a discussion with the King, he said that we could find the Staff Of Heavens, the staff used by the archmage to banish the Sepulchure, maybe there are some magic left in it!
+ - Royal Guardian: I have thought of that, and I had a discussion with the King, he said that we could find the Staff Of Heavens, the staff used by the archmage to banish the Sepulchure, there may be a chance of the Kingdom's survival. However, you must train hard before we can attempt to retrieve this item...
+ - Royal Guardian: Before we start your training, I need you to go to the local blacksmith and repair my Warhammer for me. Take this money, it should be enough.
+ - Hero recieves 100 Gold
+ - Hero goes to local blacksmith
+ - Blacksmith: Ah! Hello, young man! What brings you here, to my fine shop?
+ - Hero: I must have my weapon repaired, I have 100 gold, is that enough
+ - Blacksmith: Haha, that is far mar than enough, I will only cost you 60 gold. Here, let me see this weapon.
+ - Hero gives blacksmith weapon
+ - Blacksmith: What? This-This weapon, it is the Warhammer of the Royal Guardian! How DARE you steal his weapon! You wretched thief!
+ - Hero: Wha-What? No! I was sent here by -
+ - Blacksmith: Guards! Help! This young man has STOLEN the Royal Guardians fine Warhammer!
+ - Town Guard: Hey you! What is this, have you stolen the Royal Guardian's master weapon?
+ - Hero: Ah-no! I would never, I have been sent here to fix it!
+ - Town Guard: Hm...I can't believe he would send such a weak peasant to care for his gear...But if you are truly his apprentice, then you could surely defeat me. I challenge you to a duel. If you lose, you shall be thrown in prison, but if you don't, I will take care of all charges.
+ - Hero: I accept your duel!
+ - Hero defeats Guard
+ - Argh, that hurts. Well, you truly are a fine warrior...I will pay for the costs and let you go free. Please send my regards to the Royal Guardian.
+ - Hero returns to Royal Guardian 
+ - Royal Guardian: Eh? You're finally back? What took so long, I was about to send a search party for you.
+ - Hero: Someone thought I had stolen your weapon and demanded I duel him.
+ - Royal Guardian: Really? Haha, I hope you whooped him hard.
+ - Royal Guardian: Also, one more thing before we head off, I need some new armor. Go to the royal armory and buy an iron chestplate with protection 2. Use the money I gave you earlier.
+ - Hero goes to royal armory. 
+ - Liz the Enchanter: Welcome to the royal armory! What can I interest you in today?
+ - Hero: Ah, could I buy an iron chestplate with protection 2?
+ - Liz the Enchanter: No problem! Give me just 1 moment.
+ - Hero recieves iron chestplate with protection 2
+ - Hero: Thank you! Have a great day!
+ - Liz the Enchanter: Haha! You too!
+ - Hero returns to Royal Guard
+ - Royal Guardian: Great! I lied, I don't need armor, but you do. Look at yourself! Now put it on.
+ - Hero dons armor
+ - Hero: Wait, where are we going?
+ - Royal Guardian: Oh shoot, you need a horse to get there! Hm, come with me to pick a horse.
+ - Hero follows Royal Guardian to stables
+ - Royal Guardian: Choose any horse you like, I'll buy any of them for free.
+ - Hero chooses horse (Can be any)
+ - Hero: I like this one, can I use it?
+ - Royal Guardian: That one? A strange choice, but I suppose...
+ - Hero recieves Horse, iron horse armor, and saddle.
+ - Royal Guardian: Let's give him a little test drive, meet me at the horse race-track in 5 minutes!
+ - Hero goes to race track
+ - Royal Guardian: Alright, you ready to get your butt kicked? 
+ - Hero: Haha! It will be your butt who will be kicked!
+ - Race Master: Ready, Get set, START!
+ - Hero races Royal Guardian, but loses.
+ - Royal Guardian: Haha! Nice race, but you still have a lot of training to do with that horse! Let's start our training now!
+ - Hero: *Yawn* I'm a bit tired, can we wait until tomorrow, then?
+ - Royal Guardian: Hm...I suppose, but just this once. Go to the nearest inn and get some rest.
+ - Hero goes to inn, buys room, and sleeps
+ - Hero wakes up with Royal Guardian next to him.
+ - Royal Guardian: Good morning! Now, let's get to training!
+ - Hero: AH! How'd you get in here?!
+ - Royal Guardian: Erm, I'm the Royal Guard, I just asked the guy to let me in...anyway, let's get started! Meet me at the Letaia River east of Dustmoon.
+ - Hero goes to Letaia River
+ - Royal Guardian: You're finally here! What took so long? Never mind, don't tell me, let's get to training.
+ - Royal Guardian: See that pack of dark slimes? Go shoot 30 of them with this bow and collect 10 Dark Slime Pellets
+ - Hero defeats Dark Slimes and gives Royal Guardian 10 Dark Slime Pellets
+ - Royal Guardian: Great job, but those were just dark slimes, go defeat 25 Goblin Wolves and 15 Goblin Wolf Hide.
+ - Hero kills wolves and gives Royal Guardian 15 Goblin Wolf Hide
+ - Royal Guardian: You're doing well, I think you're ready for something even harder! There is a monster in the river called the Letaian Beefish. It has been eating all the fish in this river, go kill it!
+ - Hero kills Letaian Beefish
+ - Royal Guardian: You're getting better! I think it's time you go on your first real mission! Before we go, I need to prepare. Go train until you are level __.
+ - Hero trains until level __
+ - Royal Guardian: Hero! Congratulations on reaching level __! Are you ready for your first true mission?
+ - Hero: Yes! I will complete any task you give me!
+ - Stop - Will be worked on tomorrow.
  - Hero goes through a ton of quests fighting monsnters, gathering artifacts, going to places etc.
  - Hero finally finds the Sepulchure that has been haunting the Kingdom.
  - Hero returns, get great reward, and is hailed hero.
