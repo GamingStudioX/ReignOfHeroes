@@ -10,15 +10,21 @@ Knight category:
 
 Wizard category:
 - Alchemist:
- Lightning Strike - Strikes the targeted mob with lightning. (5 second cooldown)
- Ice Shard - Summmons and throws a piece of ice at the targeted enemy with a 25% chance to give them slowness I. (15 second cooldown)
- 
-
+  Lightning Strike - Strikes the targeted mob with lightning. (5 second cooldown)
+  Ice Shard - Summmons and throws a piece of ice at the targeted enemy with a 25% chance to give them slowness I. (15 second cooldown)
+  Brewing Mastery - Passive skill that makes decreases brewing time and gives Wizards higher chance of recieving brewing items from mobs.
+  Flash Teleport - Allows player to instantly teleport to where they are looking given that they have 60% health or less
+  Ignite - Instantly ignites the targeted enemy on fire (1.5 second cooldown)
+  Energy Bolt - A mages weakest, but most used skill. Fires a snowball 'energy bolt' at the targeted enemy, dealing low damage. No cooldown.
+  
+  
 - Wizard:
-
+  Mana Shield - Buff that creates an invisble 'shield of mana' around the player. This greatly decreases the amount of damage taken, as the mana will decrease for health.Mana Shield - Buff that creates an invisble 'shield of mana' around the player. This greatly decreases the amount of damage taken, as the mana will decrease for health. Mana has a slower recovery rate as well. (2 min cooldown)
+  
+  
 - Archmage:
 
-- Healer (Special):
+- Cleric (Special):
 
 
 Rogue category:
